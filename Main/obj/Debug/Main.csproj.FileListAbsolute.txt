@@ -1,0 +1,9 @@
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Debug\Main.exe.config
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Debug\Main.exe
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Debug\Main.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.Properties.Resources.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.csproj.GenerateResource.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.exe
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.pdb
