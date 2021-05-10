@@ -47,11 +47,87 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Car.cs" />
+    <Compile Include="Entities\Service.cs" />
+    <Compile Include="Entities\ServiceType.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Cars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Cars.Designer.cs">
+      <DependentUpon>Cars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Clients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Clients.Designer.cs">
+      <DependentUpon>Clients.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Models.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Models.Designer.cs">
+      <DependentUpon>Models.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\OrderNotes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\OrderNotes.Designer.cs">
+      <DependentUpon>OrderNotes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PurchaseInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PurchaseInvoices.Designer.cs">
+      <DependentUpon>PurchaseInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ServiceInvoices.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ServiceInvoices.Designer.cs">
+      <DependentUpon>ServiceInvoices.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Services.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Services.Designer.cs">
+      <DependentUpon>Services.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\ServiceTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\ServiceTypes.Designer.cs">
+      <DependentUpon>ServiceTypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Tools.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Tools.Designer.cs">
+      <DependentUpon>Tools.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Vendors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Vendors.Designer.cs">
+      <DependentUpon>Vendors.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -76,6 +152,44 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Assets\BotonRojo 40x40px.png" />
+    <Content Include="Assets\Clean 24px.png" />
+    <Content Include="Assets\Compras 48px.png" />
+    <Content Include="Assets\Contraer.png" />
+    <Content Include="Assets\Create 24px.png" />
+    <Content Include="Assets\Empleados 48px.png" />
+    <Content Include="Assets\empleados.png" />
+    <Content Include="Assets\exit.png" />
+    <Content Include="Assets\Expandir.png" />
+    <Content Include="Assets\FlechaAtras.png" />
+    <Content Include="Assets\FondoPrincipal.png" />
+    <Content Include="Assets\FondoPrincipal1.png" />
+    <Content Include="Assets\graficas Con Texto.gif" />
+    <Content Include="Assets\graficas.gif" />
+    <Content Include="Assets\graficas.png" />
+    <Content Include="Assets\imageonline-co-whitebackgroundremoved %281%29.png" />
+    <Content Include="Assets\inventario.png" />
+    <Content Include="Assets\LogA.png" />
+    <Content Include="Assets\Logo 128px.png" />
+    <Content Include="Assets\MenuLateral.png" />
+    <Content Include="Assets\personal.gif" />
+    <Content Include="Assets\proveedores.png" />
+    <Content Include="Assets\ReTool 32px.png" />
+    <Content Include="Assets\Salida 48px.png" />
+    <Content Include="Assets\Search 32px.png" />
+    <Content Include="Assets\service color.png" />
+    <Content Include="Assets\service color1.png" />
+    <Content Include="Assets\service.png" />
+    <Content Include="Assets\ServiceSeleccionado.jpeg" />
+    <Content Include="Assets\TrashCan 24px.png" />
+    <Content Include="Assets\UserProfile 32px.png" />
+    <Content Include="Assets\Usuario 32px.png" />
+    <Content Include="Assets\Usuarios 64px.png" />
+    <Content Include="Assets\ventas.gif" />
+    <Content Include="Assets\ventas.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
