@@ -1,0 +1,7 @@
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\ignaz\source\repos\BosettiAutomotores\DataAccessLayer\obj\Release\DataAccessLayer.pdb

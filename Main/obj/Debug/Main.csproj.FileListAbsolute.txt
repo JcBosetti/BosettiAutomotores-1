@@ -7,3 +7,7 @@ C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.csproj.Genera
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.exe
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Debug\Utilities.dll
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Debug\Utilities.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.Form1.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Debug\Main.csproj.CopyComplete

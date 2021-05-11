@@ -1,0 +1,16 @@
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Main.exe.config
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Main.exe
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Main.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Utilities.dll
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Utilities.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csprojAssemblyReference.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Form1.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Properties.Resources.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csproj.GenerateResource.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csproj.CoreCompileInputs.cache
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csproj.CopyComplete
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.exe
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\DataAccessLayer.dll
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\DataAccessLayer.pdb
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\DataAccessLayer.dll.config
