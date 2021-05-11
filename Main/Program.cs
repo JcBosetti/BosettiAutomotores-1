@@ -1,6 +1,4 @@
-﻿using Main.Entities;
-using Main.Forms;
-using System;
+﻿using System;
 using System.Windows.Forms;
 
 namespace Main {
@@ -10,7 +8,7 @@ namespace Main {
 		/// </summary>
 		[STAThread]
 		static void Main() {
-			// Application.SetHighDoiMode(HighDpiMode.SystemAware);
+			// Application.SetHighDpiMode(HighDpiMode.SystemAware);
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 
