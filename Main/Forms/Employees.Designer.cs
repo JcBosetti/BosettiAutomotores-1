@@ -1,6 +1,6 @@
 ﻿
 namespace Main.Forms {
-	partial class Personal {
+	partial class Employees {
 		/// <summary>
 		/// Required designer variable.
 		/// </summary>
@@ -112,7 +112,6 @@ namespace Main.Forms {
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Personal";
             this.Text = "Models";
-            this.Load += new System.EventHandler(this.Personal_Load);
             this.flowLayoutPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBannerPersonal)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

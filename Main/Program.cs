@@ -1,6 +1,6 @@
-﻿using Main.Forms;
-using System;
+﻿using System;
 using System.Windows.Forms;
+using Main.Forms;
 
 namespace Main {
 	static class Program {
@@ -9,13 +9,10 @@ namespace Main {
 		/// </summary>
 		[STAThread]
 		static void Main() {
-			// Application.SetHighDpiMode(HighDpiMode.SystemAware);
 			Application.EnableVisualStyles();
 			Application.SetCompatibleTextRenderingDefault(false);
 
-			// var user = new User();
-
-			Application.Run(new Form1());
+			Application.Run(new LogIn());
 		}
 	}
 }

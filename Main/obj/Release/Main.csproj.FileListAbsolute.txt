@@ -4,7 +4,6 @@ C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Main.pdb
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Utilities.dll
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\Utilities.pdb
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csprojAssemblyReference.cache
-C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Form1.resources
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Properties.Resources.resources
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csproj.GenerateResource.cache
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.csproj.CoreCompileInputs.cache
@@ -14,3 +13,11 @@ C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.pdb
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\DataAccessLayer.dll
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\DataAccessLayer.pdb
 C:\Users\ignaz\source\repos\BosettiAutomotores\Main\bin\Release\DataAccessLayer.dll.config
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Home.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Statistics.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.LogIn.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Employees.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Suppliers.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Services.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Stock.resources
+C:\Users\ignaz\source\repos\BosettiAutomotores\Main\obj\Release\Main.Forms.Invoices.resources

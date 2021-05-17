@@ -9,9 +9,18 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Main.Forms {
-	public partial class ServiceTypes : Form {
-		public ServiceTypes() {
+	public partial class Invoices : Form {
+		public Invoices() {
 			InitializeComponent();
 		}
+
+		private void button1_Click(object sender, EventArgs e) {
+			this.Close();
+		}
+
+		private void VendorsForm() {
+			pictureBannerVentas.Image = Image.FromFile(@"Assets\Facturación Banner.gif");
+		}
 	}
+
 }

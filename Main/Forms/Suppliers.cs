@@ -9,13 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Main.Forms {
-	public partial class Proveedores : Form {
-		public Proveedores() {
+	public partial class Suppliers : Form {
+		public Suppliers() {
 			InitializeComponent();
 		}
-        private void Proveedores_Load(object sender, EventArgs e)
-        {
-            pictureBannerProveedores.Image = Image.FromFile(@"Assets\ProveedoresBanner.gif");
-        }
-    }
+	}
 }
