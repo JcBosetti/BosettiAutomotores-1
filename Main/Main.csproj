@@ -161,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\BotonRojo 40x40px.png" />
+    <Content Include="Resources\Image1.png" />
     <None Include="Resources\GenaroFondo.png" />
     <None Include="Resources\EstadisticasBanner.gif" />
     <None Include="Resources\ButMenosEmpleado.png" />
@@ -183,10 +184,10 @@
     <None Include="Assets\ButTrabajos.png" />
     <None Include="Assets\ButFacturar.png" />
     <None Include="Assets\ButActualizar.png" />
-    <Content Include="Assets\Clean 24px.png" />
+    <Content Include="Resources\Clean 24px.png" />
     <Content Include="Assets\Compras 48px.png" />
     <Content Include="Assets\Contraer.png" />
-    <Content Include="Assets\Create 24px.png" />
+    <Content Include="Resources\Create 24px.png" />
     <Content Include="Assets\Empleados 48px.png" />
     <Content Include="Assets\empleados.png" />
     <None Include="Assets\VentasTp.png" />
