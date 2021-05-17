@@ -86,7 +86,6 @@ namespace Main.Forms {
 			this.addServiceButton.Size = new System.Drawing.Size(230, 160);
 			this.addServiceButton.TabIndex = 3;
 			this.addServiceButton.UseVisualStyleBackColor = true;
-			this.addServiceButton.Click += new System.EventHandler(this.button1_Click);
 			// 
 			// Services
 			// 

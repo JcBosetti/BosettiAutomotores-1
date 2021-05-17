@@ -121,7 +121,6 @@ namespace Main.Forms
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
 			this.Name = "Stock";
 			this.Text = "Stock";
-			this.Load += new System.EventHandler(this.Stock_Load);
 			this.flowLayoutPanel1.ResumeLayout(false);
 			((System.ComponentModel.ISupportInitialize)(this.pictureBannerStock)).EndInit();
 			this.ResumeLayout(false);

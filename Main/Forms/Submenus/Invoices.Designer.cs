@@ -30,7 +30,6 @@ namespace Main.Forms {
 			this.button4 = new System.Windows.Forms.Button();
 			this.button5 = new System.Windows.Forms.Button();
 			this.pictureBannerVentas = new System.Windows.Forms.PictureBox();
-			this.button1 = new System.Windows.Forms.Button();
 			this.flowLayoutPanel1.SuspendLayout();
 			((System.ComponentModel.ISupportInitialize)(this.pictureBannerVentas)).BeginInit();
 			this.SuspendLayout();
@@ -107,18 +106,6 @@ namespace Main.Forms {
 			this.pictureBannerVentas.TabIndex = 2;
 			this.pictureBannerVentas.TabStop = false;
 			// 
-			// button1
-			// 
-			this.button1.BackgroundImage = global::Main.Properties.Resources.FlechaAtras;
-			this.button1.FlatAppearance.BorderSize = 0;
-			this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-			this.button1.Location = new System.Drawing.Point(983, 585);
-			this.button1.Name = "button1";
-			this.button1.Size = new System.Drawing.Size(25, 24);
-			this.button1.TabIndex = 1;
-			this.button1.UseVisualStyleBackColor = true;
-			this.button1.Click += new System.EventHandler(this.button1_Click);
-			// 
 			// Invoices
 			// 
 			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -126,7 +113,6 @@ namespace Main.Forms {
 			this.ClientSize = new System.Drawing.Size(1020, 710);
 			this.Controls.Add(this.flowLayoutPanel1);
 			this.Controls.Add(this.pictureBannerVentas);
-			this.Controls.Add(this.button1);
 			this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
 			this.Name = "Invoices";
 			this.Text = "Vendors";
@@ -137,7 +123,6 @@ namespace Main.Forms {
 		}
 
         #endregion
-        private System.Windows.Forms.Button button1;
         private System.Windows.Forms.PictureBox pictureBannerVentas;
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.Button button2;

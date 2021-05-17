@@ -3,15 +3,16 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Main.Forms {
-	public partial class Employees : Form {
-		public Employees() {
-			InitializeComponent();
-		}
-	}
+namespace AAA.Parte_Bruno
+{
+    public partial class Sectores : Form
+    {
+        public Sectores()
+        {
+            InitializeComponent();
+        }
+    }
 }

@@ -58,10 +58,10 @@
     <Compile Include="Forms\Home.designer.cs">
       <DependentUpon>Home.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Suppliers.cs">
+    <Compile Include="Forms\Submenus\Suppliers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Suppliers.Designer.cs">
+    <Compile Include="Forms\Submenus\Suppliers.Designer.cs">
       <DependentUpon>Suppliers.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\LogIn.cs">
@@ -70,34 +70,34 @@
     <Compile Include="Forms\LogIn.Designer.cs">
       <DependentUpon>LogIn.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Employees.cs">
+    <Compile Include="Forms\Submenus\Employees.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Employees.Designer.cs">
+    <Compile Include="Forms\Submenus\Employees.Designer.cs">
       <DependentUpon>Employees.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Statistics.cs">
+    <Compile Include="Forms\Submenus\Statistics.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Statistics.Designer.cs">
+    <Compile Include="Forms\Submenus\Statistics.Designer.cs">
       <DependentUpon>Statistics.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Services.cs">
+    <Compile Include="Forms\Submenus\Services.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Services.Designer.cs">
+    <Compile Include="Forms\Submenus\Services.Designer.cs">
       <DependentUpon>Services.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Stock.cs">
+    <Compile Include="Forms\Submenus\Stock.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Stock.Designer.cs">
+    <Compile Include="Forms\Submenus\Stock.Designer.cs">
       <DependentUpon>Stock.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\Invoices.cs">
+    <Compile Include="Forms\Submenus\Invoices.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\Invoices.Designer.cs">
+    <Compile Include="Forms\Submenus\Invoices.Designer.cs">
       <DependentUpon>Invoices.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -105,25 +105,25 @@
     <EmbeddedResource Include="Forms\Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Statistics.resx">
+    <EmbeddedResource Include="Forms\Submenus\Statistics.resx">
       <DependentUpon>Statistics.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\LogIn.resx">
       <DependentUpon>LogIn.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Employees.resx">
+    <EmbeddedResource Include="Forms\Submenus\Employees.resx">
       <DependentUpon>Employees.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Suppliers.resx">
+    <EmbeddedResource Include="Forms\Submenus\Suppliers.resx">
       <DependentUpon>Suppliers.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Services.resx">
+    <EmbeddedResource Include="Forms\Submenus\Services.resx">
       <DependentUpon>Services.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Stock.resx">
+    <EmbeddedResource Include="Forms\Submenus\Stock.resx">
       <DependentUpon>Stock.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\Invoices.resx">
+    <EmbeddedResource Include="Forms\Submenus\Invoices.resx">
       <DependentUpon>Invoices.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
